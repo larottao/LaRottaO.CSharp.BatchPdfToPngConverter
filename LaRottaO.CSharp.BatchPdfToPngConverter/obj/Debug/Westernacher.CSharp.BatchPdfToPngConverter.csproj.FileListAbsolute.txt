@@ -1,0 +1,16 @@
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\Westernacher.CSharp.BatchPdfToPngConverter.exe.config
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\Westernacher.CSharp.BatchPdfToPngConverter.exe
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\Westernacher.CSharp.BatchPdfToPngConverter.pdb
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\PdfiumViewer.dll
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\PdfiumViewer.xml
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.csproj.AssemblyReference.cache
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.Properties.Resources.resources
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.csproj.GenerateResource.cache
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.csproj.CoreCompileInputs.cache
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.csproj.CopyComplete
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.exe
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.pdb
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\de\PdfiumViewer.resources.dll
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\bin\Debug\x86\pdfium.dll
+C:\Repositorios\Westernacher.CSharp.BatchPdfToPngConverter\Westernacher.CSharp.BatchPdfToPngConverter\obj\Debug\Westernacher.CSharp.BatchPdfToPngConverter.MainForm.resources
